@@ -11,8 +11,8 @@ const Pricing = () => {
     <div className="max-w-7xl min-h-screen mx-auto p-4 sm:p-10 lg:py-20">
       <div className="max-w-5xl mx-auto text-center text-white tracking-widest pb-10 lg:pb-20">
         <p className="pb-4 text-xl text-gray-200">PRICING</p>
-        <h6 className="text-3xl sm:text-5xm font-black">The right price for you, whoeveryou are</h6>
-        <p className="text-xl sm:text-2xm font-light text-gray-200 px-10 py-6">Lorem ipsum has been the industry's standard dummy text ever since , when an unknown printer took a galley of type and scrambled.</p>
+        <h6 className="text-3xl sm:text-5xl font-black">The right price for you whoever you are</h6>
+        <p className="text-xl sm:text-2xm font-light text-gray-200 px-10 py-6">Lorem ipsum has been the industry standard dummy text ever since when an unknown printer took a galley of type and scrambled.</p>
       </div>
 
       <div className="flex flex-col lg:flex-row justify-center items-center  gap-8 lg:gap-0 lg:mt-0" style={{marginTop:'-50px'}}>
