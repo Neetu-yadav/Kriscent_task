@@ -124,7 +124,7 @@ import Testimonials from '../components/Testimonials';
 import Pricing from '../components/PricingPlans';
 import Contact from '../components/Contact';
 import PopularProduct from '../components/PopularProduct';
-import Home from '../components/Home'
+
 
 const Main = () => {
   return (
